@@ -102,11 +102,3 @@ You can customize the appearance and behavior of both widgets by modifying their
 
 - `color_oscilloscope.dart`: Adjust colors, thresholds, and oscilloscope parameters
 - `value_adjuster.dart`: Modify the layout or style of the adjustment controls
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
